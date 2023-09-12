@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/mlflow/mlops-with-mlflow/mlruns/0/f56c3831d2bb424989eed954e8b52984/artifacts
+end_time: 1694534596008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f56c3831d2bb424989eed954e8b52984
+run_name: worried-mole-147
+run_uuid: f56c3831d2bb424989eed954e8b52984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694534589432
+status: 3
+tags: []
+user_id: Lenovo

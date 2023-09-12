@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/mlflow/mlops-with-mlflow/mlruns/0/e4fa90c10aa443fb8e3bad6bf14e8800/artifacts
+end_time: 1694534958945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4fa90c10aa443fb8e3bad6bf14e8800
+run_name: bemused-stork-37
+run_uuid: e4fa90c10aa443fb8e3bad6bf14e8800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694534952132
+status: 3
+tags: []
+user_id: Lenovo
